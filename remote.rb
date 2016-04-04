@@ -1,1 +1,1 @@
-puts "Remote"
+puts "Made remotely"
